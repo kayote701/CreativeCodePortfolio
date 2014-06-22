@@ -1,0 +1,21 @@
+body {
+    font-family: "Helvetica";
+    font-weight: 300;
+    font-size: 12px;
+    color: #000;
+}
+p {
+color: white;
+font-size: 12px;
+background: black;
+}
+h1 {
+  color: white;
+  font-size: 45px;
+  background: black;
+}
+h2 {
+  font-size: 20px
+}
+
+   
